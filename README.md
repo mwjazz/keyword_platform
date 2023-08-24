@@ -110,7 +110,7 @@ Keywords, Ad Groups and Campaign for download as CSV files.
 
 Use these files to upload to Google Ads via Google Ads Editor.
 
-> IMPORTANT: It is important you use Google Ads Editor instead of uploading via
+> [!IMPORTANT] It is important you use Google Ads Editor instead of uploading via
 > Bulk Actions in the Google Ads UI.
 
 ## Workers & Costs
